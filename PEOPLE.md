@@ -1,1 +1,1 @@
-Haskell Curry 2
+Haskell Curry 3
